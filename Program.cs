@@ -31,7 +31,9 @@ namespace converter
                     Console.WriteLine("");
                 }
             }
+            Console.WriteLine();
             Console.WriteLine("спасибо за тестирование");
+            Console.ReadLine();
         }
     }
 }
